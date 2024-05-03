@@ -2,11 +2,11 @@
 ## Background: 
 This is a repo for Finn Owsley, Scott Masterson, and Sofia Lozano's final project. :ship: Hello! Our research is on the long-sunken Titanic. We estimate the effect of passenger class on survival rate. :ship: You can find all relevant files in the folder. This project includes: 
 
-- Latex code for the report
-- pdf version of the report 
-- File for replication
-- Bib file
-- CSV file with our compiled dataset 
+- Latex code for the report, in the Code folder
+- Code for the data analysis, in the Code folder
+- pdf version of the report, with bibliography, in Report folder
+- CSV file with our compiled dataset, in Dataset folder
+- Selected figures and tables in the Figures olfer
 
 ![Alt text](Figures/titanic-musicians_custom-13259031254de7661af92dd1bc1611745848bb27-2.jpg)
 
