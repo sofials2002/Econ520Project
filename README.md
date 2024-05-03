@@ -5,3 +5,9 @@ Find our files in the folder. This project includes:
 
 - Markdown file
 - Instructions on replication
+
+## Introduction:
+
+## Findings:
+
+If you have any questions... 
