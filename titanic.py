@@ -167,7 +167,7 @@ run_interaction(interaction_data, survive)
 run_adjustment(data, survive)
 
 #optional function to produce graphs showing various aspects of the data
-#graph_variables(age)
+graph_variables(age)
 
 
 
