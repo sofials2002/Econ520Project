@@ -8,7 +8,7 @@ This is a repo for Finn Owsley, Scott Masterson, and Sofia Lozano's final projec
 - Bib file
 - CSV file with our compiled dataset 
 
-![Alt text](https://github.com/sofials2002/Econ520Project/blob/main/titanic-musicians_custom-13259031254de7661af92dd1bc1611745848bb27-2.jpg)
+![Alt text](Titanic_Image.jpg)
 
 ### Context: 
 This project was created to put into practice the skills learned in ECON 520: Data Science for Economics. (Causal inference, mainly linear regressions, Regression Adjustments, and Bootstrap). 
