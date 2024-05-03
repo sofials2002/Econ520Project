@@ -22,6 +22,7 @@ Our main findings are that being a first-class passenger had a positive statisti
 1. Download titanic_Dataset.csv from the Files
 2. Download titanic_Replication.py and access it in your python enviornment
 3. Run the results in titanic_replication.py (you will need to change the name of the filepath where titanic_Dataset.csv is located in order to input the data)
+   
 ...
 
 If you have any questions or want to contribute to this project reach out. 
