@@ -1,6 +1,6 @@
 # Econ520Project
 ## Background: 
-This is a repo for Finn Owsley, Scott Masterson, and Sofia Lozano's final project. :ship: Hello! Our research is on the long-sunken Titanic. We estimate the effect of passenger class on survival rate. :ship: You can find all relevant files in the folder. This project includes: 
+This is a repo for Finn Owsley, Scott Masterson, and Sofia Lozano's final project. :ship: Hello! Our research is on the long-sunken Titanic. We estimate the effect of passenger class on survival rate. :ship: You can find all files in the relevant folders. This project includes: 
 
 - Latex code for the report, in the Code folder
 - Code for the data analysis, in the Code folder
